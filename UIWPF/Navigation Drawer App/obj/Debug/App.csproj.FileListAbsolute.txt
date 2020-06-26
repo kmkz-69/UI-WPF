@@ -1,0 +1,15 @@
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App.csprojAssemblyReference.cache
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App.g.cs
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\MainWindow.baml
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App.csproj.GenerateResource.cache
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\DEVELOPEMENT\App\Navigation Drawer App\bin\Debug\App.exe.config
+D:\DEVELOPEMENT\App\Navigation Drawer App\bin\Debug\App.exe
+D:\DEVELOPEMENT\App\Navigation Drawer App\bin\Debug\App.pdb
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App_MarkupCompile.cache
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App_MarkupCompile.lref
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App.g.resources
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\Drawer_App.Properties.Resources.resources
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App.exe
+D:\DEVELOPEMENT\App\Navigation Drawer App\obj\Debug\App.pdb
